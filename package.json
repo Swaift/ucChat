@@ -1,0 +1,28 @@
+{
+  "name": "ucChat",
+  "version": "0.1.0",
+  "description": "Microcontroller-infused chat",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "angular": ">=1.6.1",
+    "express": ">=4.15.2",
+    "jquery": ">=3.1.1", 
+    "ui-select": ">=0.19.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Swaift/ucChat"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
